@@ -1,0 +1,1 @@
+Codigo alumno: 1	Nombre: Hugo Andrino		 nota alumno: 100

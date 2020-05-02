@@ -1,0 +1,22 @@
+
+ 	 Almacen: 1	ventas: Q10
+
+ 	 Almacen: 2	ventas: Q20
+
+ 	 Almacen: 3	ventas: Q30
+
+ 	 Almacen: 4	ventas: Q40
+
+ 	 Almacen: 5	ventas: Q50
+
+ 	 Almacen: 6	ventas: Q60
+
+ 	 Almacen: 7	ventas: Q70
+
+ 	 Almacen: 8	ventas: Q80
+
+ 	 Almacen: 9	ventas: Q90
+
+ 	 Almacen: 10	ventas: Q100
+
+ 	 Media de ventas:  Q55

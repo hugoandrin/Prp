@@ -1,0 +1,11 @@
+35465	azucar	15	100	la_torre	5
+515	jsbvkajdvb	15	5456	iashcoi	25
+25465	cafe la jarrillita	10	54564	aceros de guatemala	1546
+12	coca cola	10	25	coca cola SA.	Q7
+213	canela sidequest	1	200	sidequest SA.	Q25
+1324	canela fina 10 gramos 	10	25	ni idea	Q1
+666	reproductor mp3	5	4	radio sa	Q500
+Codigo: 21354	Nombre: jabon de sombra	minimo deseado: 5	estado actual: 12	Proveedor: jabones de guatemala	Precio: Q25
+Codigo: 5465	Nombre: agua salada		 minimo deseado: 1	estado actual: 2	Proveedor: mar		 Precio: Q0.5
+Codigo: 1651	Nombre: 565165		 minimo deseado: 51651	estado actual: 454	Proveedor: 2121		 Precio: Q22
+Codigo: 564665	Nombre: agua potablre		 minimo deseado: 5	estado actual: 100	Proveedor: aldknvsdvn		 Precio: Q25

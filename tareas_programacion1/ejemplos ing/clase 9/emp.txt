@@ -1,0 +1,6 @@
+12	Arnolo_Garcia	56	4
+6	Pedro_Juarez	23	1
+1	Juan_Perez	34	3
+9	Marina_Smith	25	1
+4	Manuel_Lopez	20	6
+

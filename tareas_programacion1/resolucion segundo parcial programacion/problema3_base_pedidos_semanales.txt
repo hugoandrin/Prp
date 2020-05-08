@@ -1,0 +1,8 @@
+1	Sueter:	10	Pantalones:	10	unidades_vendidas:	20	470	380	215
+2	Sueter:	0	Pantalones:	10	unidades_vendidas:	10	450	380	205
+3	Sueter:	10	Pantalones:	40	unidades_vendidas:	50	360	360	165
+4	Sueter:	60	Pantalones:	150	unidades_vendidas:	210	0	240	15
+5	Sueter:	300	Pantalones:	20	unidades_vendidas:	320	-340	-360	-5
+6	Sueter:	350	Pantalones:	200	unidades_vendidas:	550	-1090	-1060	-205
+7	Sueter:	300	Pantalones:	50	unidades_vendidas:	350	-1490	-1660	-255
+8	Sueter:	800	Pantalones:	20	unidades_vendidas:	820	-340	-1200	195
